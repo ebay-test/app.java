@@ -4,3 +4,4 @@
  echo "continue" 
  echo "please enter your password"
  echo "sorry you entered an invalid username"
+ echo Welcome to HumanCorridor
